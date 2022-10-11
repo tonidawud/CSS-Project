@@ -1,0 +1,45 @@
+body{
+    background-color: rgb(202, 228, 232);
+}
+img {
+    width: 200px;
+    border-radius: 100px;
+    float: left;
+    margin: 10px;
+}  
+p {
+    font-style: ;
+    font-size: 17px;
+}
+em {
+    color: grey
+}
+header{
+    text-align: center;
+}
+a:hover{
+    color: tomato;
+} 
+body{
+    font-family: 'Roboto', sans-serif;
+    padding-top:10px;
+    padding-right: 10px;
+    padding-bottom: 10px;
+    padding-left: 10px;
+    margin-top: 10px;
+    margin-right: 10px;
+    margin-bottom: 10px;
+    margin-left: 10px;
+}
+nav{
+    border: 5px outset rgb(59, 118, 135);
+    border-radius: 10px;
+}
+div{
+    display: inline-block;
+    width: 600px;
+}
+.video {
+    height: 300;
+    width: 590;
+}
